@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
@@ -57,7 +57,7 @@
 	},
 	{
 		"abr": "heatwave",
-		"price": 750,
+		"price": 1222,
 		"karmatype": "Bad"
 	},
 	{
@@ -67,17 +67,17 @@
 	},
 	{
 		"abr": "coldsnap",
-		"price": 800,
+		"price": 1400,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "solarflare",
-		"price": 500,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shortcircuit",
-		"price": 500,
+		"price": 900,
 		"karmatype": "Bad"
 	},
 	{
@@ -102,7 +102,7 @@
 	},
 	{
 		"abr": "blight",
-		"price": 700,
+		"price": 1506,
 		"karmatype": "Bad"
 	},
 	{
@@ -117,12 +117,12 @@
 	},
 	{
 		"abr": "tradercaravan",
-		"price": 275,
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "orbitaltraderarrival",
-		"price": 350,
+		"price": 450,
 		"karmatype": "Good"
 	},
 	{
@@ -222,27 +222,27 @@
 	},
 	{
 		"abr": "raid",
-		"price": 1500,
+		"price": 1655,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
+		"price": 1502,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 1500,
+		"price": 1755,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
+		"price": 2888,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
+		"price": 2777,
 		"karmatype": "Bad"
 	},
 	{
@@ -262,12 +262,12 @@
 	},
 	{
 		"abr": "randomdisease",
-		"price": 1000,
+		"price": 1600,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "disease",
-		"price": 1000,
+		"price": 1800,
 		"karmatype": "Bad"
 	},
 	{
