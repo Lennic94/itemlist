@@ -127,7 +127,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 160,
+		"price": 300,
 		"karmatype": "Neutral"
 	},
 	{
@@ -192,8 +192,8 @@
 	},
 	{
 		"abr": "skillincrease",
-		"price": 200,
-		"karmatype": "Good"
+		"price": 100,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "party",
@@ -272,7 +272,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1800,
+		"price": 2200,
 		"karmatype": "Good"
 	},
 	{
@@ -377,7 +377,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 5000,
+		"price": 4400,
 		"karmatype": "Good"
 	},
 	{
