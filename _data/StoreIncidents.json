@@ -37,7 +37,7 @@
 	},
 	{
 		"abr": "drythunderstorm",
-		"price": 450,
+		"price": 550,
 		"karmatype": "Bad"
 	},
 	{
@@ -107,7 +107,7 @@
 	},
 	{
 		"abr": "animaltame",
-		"price": 150,
+		"price": 250,
 		"karmatype": "Good"
 	},
 	{
@@ -132,7 +132,7 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 350,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -167,8 +167,8 @@
 	},
 	{
 		"abr": "wildman",
-		"price": 300,
-		"karmatype": "Good"
+		"price": 600,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "rarethrumbos",
@@ -192,7 +192,7 @@
 	},
 	{
 		"abr": "skillincrease",
-		"price": 100,
+		"price": 250,
 		"karmatype": "Neutral"
 	},
 	{
@@ -272,7 +272,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 2200,
+		"price": 2600,
 		"karmatype": "Good"
 	},
 	{
@@ -432,7 +432,7 @@
 	},
 	{
 		"abr": "sanctuary",
-		"price": 100000,
+		"price": 30000,
 		"karmatype": "Good"
 	}
 	],

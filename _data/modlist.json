@@ -54,9 +54,27 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Major Hoff",
-    "name": "RimThreaded",
-    "steamId": "2222907981",
-    "version": "2.6.4"
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Complex Jobs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2196"
+  },
+  {
+    "author": "mr_chimick",
+    "name": "Block Unwanted Minutiae",
+    "steamId": "2266225921",
+    "version": "2.8"
+  },
+  {
+    "author": "GoryMoon",
+    "name": "CloseAll",
+    "steamId": "2018479759",
+    "version": "1.4.7964.40819"
   }
 ]
